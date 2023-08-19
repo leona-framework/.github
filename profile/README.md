@@ -16,13 +16,7 @@ Explore the repositories to find the tools that best suit your project's needs:
 
 - **[leona-proxy](https://github.com/leona-framework/leona-proxy)**:
   Leverage advanced proxying capabilities to enhance bean behavior and create dynamic proxies.
-
-## Repositories
-
-- **[leona-mvc](https://github.com/leona-framework/leona-mvc)**: Enhance your MVC applications with features like automatic flow logging, streamlined rest clients, observability metrics, and powerful service interfaces.
-- **[leona-core](https://github.com/leona-framework/leona-core)**: Utilize essential components, caching with TTL annotations, utility functions, and foundational testing utilities.
-- **[leona-proxy](https://github.com/leona-framework/leona-proxy)**: Unlock advanced proxying capabilities to enhance bean behavior and create dynamic proxies.
-
+  
 ## Getting Started
 
 Each repository within the Leona Framework contains detailed documentation to guide you through setup, configuration, and usage. We encourage you to explore the functionalities of each module and leverage them to their fullest potential in your projects.
